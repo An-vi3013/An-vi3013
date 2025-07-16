@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm Angita Devi!
 
-<!--
-**An-vi3013/An-vi3013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science (AI & ML)  
+💻 Learning C, C++, DSA & Web Development  
+🚀 Dreaming big with Google-level goals  
+🌱 Currently working on improving coding skills  
+📚 Always excited to learn and build new things
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Languages: C, C++
+- Tools: VS Code, Git, GitHub
+- Learning: Python, Web Development, DSA
+
+---
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=An-vi3013&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect with me
+- 📬 Email: angita815@gmail.com
+- 📍 Location: Ludhiana, India
+
